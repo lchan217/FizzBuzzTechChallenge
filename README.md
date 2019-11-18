@@ -1,2 +1,0 @@
-# FizzBuzzTechChallenge
-Created with CodeSandbox
